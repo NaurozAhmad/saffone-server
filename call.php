@@ -11,7 +11,7 @@
 		echo $rows['phone'];
 	}
 	else {
-		echo "nope";
+		echo "nananananarenarena";
 	}
 
 ?>
